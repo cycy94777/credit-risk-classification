@@ -2,11 +2,9 @@
 
 ## Overview of the Analysis
 
-As a risk analyst, creating a credit risk model is a more efficient way to evaluate loan risk than manual record evaluation. To predict loan risk, we use a supervised machine learning model (Logistic Regression) to classify loan risk as high or low based on historical lending activity data from a peer-to-peer lending services company. In addition to training and classifying data, we can use evaluation tools and resampling methods to improve the accuracy of the model's predictions.
+As a risk analyst, creating a credit risk model is a more efficient way to evaluate loan risk than manual record evaluation. To predict loan risk, I use a supervised machine learning model (Logistic Regression) to classify loan risk as high or low based on historical lending activity data from a peer-to-peer lending services company. In addition to training and classifying data, I use evaluation tools and resampling methods to improve the accuracy of the model's predictions.
 
 ## Results
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
   * Accuracy: 0.9520
